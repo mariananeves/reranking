@@ -1,0 +1,15 @@
+0	An intraductal human-in-mouse transplantation model mimics the subtypes of ductal carcinoma in situ.
+0	BACKGROUND: Human models of noninvasive breast tumors are limited, and the existing in vivo models do not mimic inter- and intratumoral heterogeneity.
+0	Ductal carcinoma in situ (DCIS) is the most common type (80%) of noninvasive breast lesions.
+1	The aim of this study was to develop an in vivo model whereby the natural progression of human DCIS might be reproduced and studied.
+0	To accomplish this goal, the intraductal human-in-mouse (HIM) transplantation model was developed.
+0	The resulting models, which mimicked some of the diversity of human noninvasive breast cancers in vivo, were used to show whether subtypes of human DCIS might contain distinct subpopulations of tumor-initiating cells.
+0	METHODS: The intraductal models were established by injection of human DCIS cell lines (MCF10DCIS.COM and SUM-225), as well as cells derived from a primary human DCIS (FSK-H7), directly into the primary mouse mammary ducts via cleaved nipple.
+0	Six to eight weeks after injections, whole-mount, hematoxylin and eosin, and immunofluorescence staining were performed to evaluate the type and extent of growth of the DCIS-like lesions.
+0	To identify tumor-initiating cells, putative human breast stem/progenitor subpopulations were sorted from MCF10DCIS.COM and SUM-225 with flow cytometry, and their in vivo growth fractions were compared with the Fisher's Exact test.
+0	RESULTS: Human DCIS cells initially grew within the mammary ducts, followed by progression to invasion in some cases into the stroma.
+0	The lesions were histologically almost identical to those of clinical human DCIS.
+0	This method was successful for growing DCIS cell lines (MCF10DCIS.COM and SUM-225) as well as a primary human DCIS (FSK-H7).
+0	MCF10DCIS.COM represented a basal-like DCIS model, whereas SUM-225 and FSK-H7 cells were models for HER-2+ DCIS.
+0	With this approach, we showed that various subtypes of human DCIS appeared to contain distinct subpopulations of tumor-initiating cells.
+0	CONCLUSIONS: The intraductal HIM transplantation model provides an invaluable tool that mimics human breast heterogeneity at the noninvasive stages and allows the study of the distinct molecular and cellular mechanisms of breast cancer progression.

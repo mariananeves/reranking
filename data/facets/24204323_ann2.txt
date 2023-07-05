@@ -1,0 +1,13 @@
+1	Mismatch repair genes Mlh1 and Mlh3 modify CAG instability in Huntington's disease mice: genome-wide and candidate approaches.
+0	The Huntington's disease gene (HTT) CAG repeat mutation undergoes somatic expansion that correlates with pathogenesis.
+1	Modifiers of somatic expansion may therefore provide routes for therapies targeting the underlying mutation, an approach that is likely applicable to other trinucleotide repeat diseases.
+0	Huntington's disease Hdh(Q111) mice exhibit higher levels of somatic HTT CAG expansion on a C57BL/6 genetic background (B6.Hdh(Q111) ) than on a 129 background (129.Hdh(Q111) ).
+0	Linkage mapping in (B6x129).Hdh(Q111) F2 intercross animals identified a single quantitative trait locus underlying the strain-specific difference in expansion in the striatum, implicating mismatch repair (MMR) gene Mlh1 as the most likely candidate modifier.
+1	Crossing B6.Hdh(Q111)
+1	mice onto an Mlh1 null background demonstrated that Mlh1 is essential for somatic CAG expansions and that it is an enhancer of nuclear huntingtin accumulation in striatal neurons.
+0	Hdh(Q111) somatic expansion was also abolished in mice deficient in the Mlh3 gene, implicating MutLγ (MLH1-MLH3) complex as a key driver of somatic expansion.
+0	Strikingly, Mlh1 and Mlh3 genes encoding MMR effector proteins were as critical to somatic expansion as Msh2 and Msh3 genes encoding DNA mismatch recognition complex MutSβ (MSH2-MSH3).
+0	The Mlh1 locus is highly polymorphic between B6 and 129 strains.
+0	While we were unable to detect any difference in base-base mismatch or short slipped-repeat repair activity between B6 and 129 MLH1 variants, repair efficiency was MLH1 dose-dependent.
+0	MLH1 mRNA and protein levels were significantly decreased in 129 mice compared to B6 mice, consistent with a dose-sensitive MLH1-dependent DNA repair mechanism underlying the somatic expansion difference between these strains.
+1	Together, these data identify Mlh1 and Mlh3 as novel critical genetic modifiers of HTT CAG instability, point to Mlh1 genetic variation as the likely source of the instability difference in B6 and 129 strains and suggest that MLH1 protein levels play an important role in driving of the efficiency of somatic expansions.
